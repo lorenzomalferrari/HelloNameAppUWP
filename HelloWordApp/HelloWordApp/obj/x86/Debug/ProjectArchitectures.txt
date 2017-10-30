@@ -1,0 +1,1 @@
+C:\Users\LORENZO.MALFERRARI\Documents\Visual Studio 2017\Projects\HelloWordApp\HelloWordApp\HelloWordApp.csproj;x86
